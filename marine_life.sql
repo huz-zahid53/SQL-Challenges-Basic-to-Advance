@@ -5,7 +5,7 @@ use marinelife; -- Using to the 'marinelife' database
 --- Creating a table named 'marine_life' with columns for species name, common name, length, weight, and habitat type
 
 CREATE TABLE marine_life (
-species_name   TEXT,
+species_name   TEXT
 common_name    TEXT,
 length         REAL,
 weight         REAL,
